@@ -1,0 +1,17 @@
+#root{
+    max-width: 1440px;
+    width: 100%;
+    height: auto;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,11 @@
+body{
+    background: red;
+    display: flex;
+    flex-direction: row;
+}
+
+.menyular{
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+}
