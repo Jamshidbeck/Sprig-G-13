@@ -1,8 +1,11 @@
 import React from "react";
-import "../components/main.css"
+import "../components/Main.css"
+import { Jamshid } from "../pages/Jamshid/Jamshid";
 
 export function Main(){
     return(
-        <div className="main"></div>
+        <div className="main">
+            <Jamshid/>
+        </div>
     )
 }

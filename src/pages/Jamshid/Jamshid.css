@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,200;0,400;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,800;0,900;1,100;1,200;1,300;1,400;1,600;1,700;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,500;1,900&family=Varela+Round&family=Viaoda+Libre&family=Voltaire&display=swap');
+
+.newspaper{
+    background: #E5E5E5;
+    padding: 136px 32px 152px 148px;
+    font-family: 'Roboto', sans-serif;
+}
+
+button{
+    cursor: pointer;
+}
+
+.newspaper-texts{
+    padding-bottom: 86px;
+}
+
+.newspaper-texts .p-1{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
+
+    color: #6A7981;
+    padding-bottom: 13px;
+}
+
+.newspaper-texts h2{
+    width: 593px;
+    height: 144px;
+    font-weight: 400;
+    font-size: 42px;
+    line-height: 48px;
+    letter-spacing: 0.42px;
+
+    color: #0B2330;
+}
+
+.newspaper-texts .p-2{
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 32px;
+    color: #375361;
+    padding-top: 26px;
+}
+
+.newspaper-page-1{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 140px;
+}
+
+.newspaper-left p{
+    font-weight: 400;
+    font-size: 34px;
+    line-height: 40px;
+    /* identical to box height, or 118% */
+
+    letter-spacing: 0.34px;
+
+    color: #0B2330;
+    padding-top: 23px;
+}
+
+.newspaper-left .p-3{
+    width: 484px;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 28px;
+    color: #375361;
+    padding-top: 30px;
+}
+
+.newspaper-left button{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+
+
+    color: #000000;
+    
+    border: 1px solid #0B2330;
+    border-radius: 4px;
+    padding: 15px 30px;
+    margin-top: 64px;
+}
