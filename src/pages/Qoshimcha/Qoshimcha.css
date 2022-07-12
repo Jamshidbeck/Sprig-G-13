@@ -1,0 +1,10 @@
+.boost{
+    display: flex;
+    flex-direction: column;
+}
+
+.yellow-page{
+    display: flex;
+    padding: 0 32px 46px 32px;
+}
+
