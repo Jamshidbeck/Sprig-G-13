@@ -31,10 +31,10 @@ export function Muhammadsaid() {
           <img src={D} alt="" />
           <img src={E} alt="" />    
           <img src={F} alt="" />
-          <img src={B} alt="" />
-          <img src={B} alt="" />
-          <img src={B} alt="" />
-          <img src={B} alt="" />
+          <img src={G} alt="" />
+          <img src={H} alt="" />
+          <img src={I} alt="" />
+          <img src={J} alt="" />
           <img src={B} alt="" />
           <img src={B} alt="" />
           <img src={B} alt="" />

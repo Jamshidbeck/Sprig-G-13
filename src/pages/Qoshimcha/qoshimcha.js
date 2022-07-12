@@ -1,5 +1,5 @@
 import React from "react";
-import "../Qoshimcha/Qoshimcha.css"
+import "../Qoshimcha/qoshimcha.css"
 
 export function Qoshimcha(){
     return(

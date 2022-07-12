@@ -1,17 +1,39 @@
-#root{
-    max-width: 1440px;
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap');
+
+#root
+{
+    margin: 0 auto;
+    padding: 0;
+    max-width: 1920px;
     width: 100%;
     height: auto;
+    background: #E5E5E5;
 }
 
-*{
+*
+{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    color: #000000;
+    transition: all 0.5s;
 }
-
-body{
+button
+{
+    cursor: pointer;
+    outline: none;
+    border: none;
+}
+.main
+{
+    padding: 0;
+    margin: 0 auto;
+    max-width: 1440px;
     width: 100%;
+    height: auto;
+    background: #FFFFFF;
     display: flex;
-    justify-content: center;
+    flex-direction: column;
 }
