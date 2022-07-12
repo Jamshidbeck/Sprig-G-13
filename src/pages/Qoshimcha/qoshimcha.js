@@ -9,7 +9,7 @@ export function Qoshimcha(){
                 <div className="yellow-page-right"></div>    
             </div>
             <div className="black-page">
-<p>salom</p>
+            <p>salom</p>
             </div>
         </div>
     )
