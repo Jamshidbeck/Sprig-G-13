@@ -1,0 +1,106 @@
+.companies {
+  display: flex;
+  flex-direction: column;
+  padding: 0 32px;
+}
+
+.c-names {
+  padding: 0 175px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+.c-names p {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 42px;
+  line-height: 48px;
+  text-align: center;
+  letter-spacing: 0.42px;
+  color: #0b2330;
+  padding-bottom: 60px;
+}
+
+.c-elements img {
+  margin-right: 50px;
+}
+
+/* .c-elements img :nth-child(5),
+:nth-child(10),
+:nth-child(15) {
+  margin-right: 0;
+} */
+
+.c-about {
+  display: flex;
+  flex-direction: row;
+  background: #51cebc;
+  border-radius: 10px;
+  margin: 192px 0;
+}
+
+.a-text {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding-left: 20px;
+}
+
+.a-text :nth-child(1) {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 34px;
+  line-height: 40px;
+  letter-spacing: 0.34px;
+  color: #0b2330;
+}
+.a-text :nth-child(2) {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 32px;
+  color: #0b2330;
+}
+
+.c-degree {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 50px;
+}
+
+.d-name p {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 34px;
+  line-height: 40px;
+  text-align: center;
+  letter-spacing: 0.34px;
+  color: #0b2330;
+  padding-bottom: 56px;
+}
+
+.d-btn {
+    padding-top: 152px;
+}
+
+.d-btn button {
+  width: 163px;
+  height: 54px;
+  background: #f9c600;
+  border: 1px solid #f9c600;
+  border-radius: 4px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #0b2330;
+}
