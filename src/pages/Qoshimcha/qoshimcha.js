@@ -1,5 +1,5 @@
 import React from "react";
-import "../Qoshimcha/qoshimcha.css"
+import "../Qoshimcha/Qoshimcha.css"
 
 export function Qoshimcha(){
     return(
@@ -9,7 +9,6 @@ export function Qoshimcha(){
                 <div className="yellow-page-right"></div>    
             </div>
             <div className="black-page">
-            <p>salom</p>
             </div>
         </div>
     )
