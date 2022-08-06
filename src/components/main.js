@@ -1,18 +1,18 @@
 import React from "react";
-import "../components/Main.css"
+import "../components/main.css"
 import { Jamshid } from "../pages/Jamshid/Jamshid";
-import { Qoshimcha } from "../pages/Qoshimcha/Qoshimcha";
+import { Qoshimcha } from "../pages/Qoshimcha/qoshimcha";
 import { Muhammadsaid } from "../pages/Muhammadsaid/Muhammadsaid";
 import { Bobur } from "../pages/Bobur/Bobur";
-import { Navbar } from "../components/Navbar";
-import { Footer } from "../components/Footer";
-import  "../components/Navbar";
-import "../components/Footer.css";
+// import { Navbar } from "../components/navbar";
+import { Footer } from "../components/footer";
+// import  "../components/navbar";
+import "../components/footer.css";
 
 export function Main(){
     return(
         <div className="main">
-            <Navbar/>
+            {/* <Navbar/> */}
             <Bobur/>
             <Muhammadsaid/>
             <Jamshid/>

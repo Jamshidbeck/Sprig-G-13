@@ -1,5 +1,5 @@
 /* navbar start */
-nav
+/* nav
 {
     padding: 15px 32px;
     display: flex;
@@ -75,5 +75,5 @@ nav .logIn > :nth-child(3)
 nav .logIn button:hover
 {
     color: red;
-}
+} */
 /* navbar end */
